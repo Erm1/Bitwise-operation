@@ -1,0 +1,1 @@
+{"type": "secondary", "version": 1, "sets": {"in": ["inputs/cat-emojis.txt", "Makefile", "inputs/pangram.txt", "inputs/greetings.txt", "mbstr.h", "README.txt", "mbstr.c", "mbstr_checker.c"], "out": ["mbstr.c"], "template": ["inputs/cat-emojis.txt", "inputs/pangram.txt", "inputs/greetings.txt", "mbstr.h", "mbstr_checker.c"]}}

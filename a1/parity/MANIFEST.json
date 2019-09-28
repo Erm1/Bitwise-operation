@@ -1,0 +1,1 @@
+{"type": "secondary", "version": 1, "sets": {"in": ["Makefile", "parity.h", "parity_checker.c", "parity.c"], "out": ["parity.c"], "template": ["Makefile", "parity.h", "parity_checker.c"]}}
